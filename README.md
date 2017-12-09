@@ -10,7 +10,7 @@ Feel free to download the vector files and create your own adaptations of Brady.
 
 Brady was born at Microsoft as a fun project. It's not an official Microsoft logo, so we're making it available under a very permissive Creative Commons license; this means that you can do (almost) everything you want with it. When creating new designs that incorporate third-party brands or logos, however, please be mindful of their branding guidelines.
 
-Keep just one thing in mind… Don't get yourself fooled by how cute Brady looks: he's still a ninja, and he's mightier than you'd think 😉
+Keep just one thing in mind… Don't get yourself fooled by how cute Brady looks: it's still a ninja, and it's mightier than you'd think 😉
 
 ## License
 
