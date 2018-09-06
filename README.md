@@ -8,7 +8,7 @@ You might have encountered Brady in the wild at events around the world, and it'
 
 Feel free to download the vector files and create your own adaptations of Brady. We've been using Brady for t-shirts, stickers, hoodies and more _swag_ at events, but we want to get it out in the open as much as possible. **If you adapt Brady into a new design, or into a new variant, you're welcome to share it with us by opening a PR!**
 
-Brady was born at Microsoft as a fun project. It's not an official Microsoft logo, so we're making it available under a very permissive Creative Commons license; this means that you can do (almost) everything you want with it. When creating new designs that incorporate third-party brands or logos, however, please be mindful of their branding guidelines.
+Brady was born at Microsoft as a fun project. It's not an official Microsoft logo, so we're making it available under a very permissive Creative Commons license; this means that you can do (almost) everything you want with it. When creating new designs that incorporate third-party brands or logos, however, please be mindful of their branding guidelines. Because Brady is not an official Microsoft logo, please do not combine it with first-party Microsoft logos or product icons.
 
 Keep just one thing in mind… Don't get yourself fooled by how cute Brady looks: it's still a ninja, and it's mightier than you'd think 😉
 
