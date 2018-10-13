@@ -4,7 +4,7 @@ This is Brady, the *Open Cloud Ninja Sloth* created by the Azure open source mar
 
 <img src="Brady.png" width="40%" height="40%" alt="Brady" />
 
-You might have encountered Brady in the wild at events around the world, and it's hard not to give in to its cuteness! Brady is an unoffical mascot for open source solutions running on [Microsoft Azure](http://azure.com) and we're proud to announce that, in true open source spirit, Brady's designs are now available on GitHub for everyone to remix them as they please.
+You might have encountered Brady in the wild at events around the world, and it's hard not to give in to its cuteness! Brady is an unofficial mascot for open source solutions running on [Microsoft Azure](http://azure.com) and we're proud to announce that, in true open source spirit, Brady's designs are now available on GitHub for everyone to remix them as they please.
 
 Feel free to download the vector files and create your own adaptations of Brady. We've been using Brady for t-shirts, stickers, hoodies and more _swag_ at events, but we want to get it out in the open as much as possible. **If you adapt Brady into a new design, or into a new variant, you're welcome to share it with us by opening a PR!**
 
